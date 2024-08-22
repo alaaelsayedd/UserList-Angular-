@@ -1,0 +1,36 @@
+div.img{
+    height: 120px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+div.img img{
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+   display: inline-block;
+
+  
+}
+div.card{
+    background-color: rgba(236, 232, 232, 0.377);
+}
+div.email{
+    font-size: 15px;
+    font-weight: 500;
+}
+div.username
+{
+    font-size: 19px;
+    font-weight: 500;
+}
+.verfied{
+   color: green;
+}
+.notverfied{
+   color: rgb(197, 25, 25);
+}
